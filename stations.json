@@ -1,0 +1,3218 @@
+[
+  {
+    "osm_id": "node/280108526",
+    "brand": null,
+    "name": "Топаз",
+    "operator": null,
+    "address": "",
+    "lat": 55.0723217,
+    "lng": 82.9099616,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/286568723",
+    "brand": null,
+    "name": "Топсиб",
+    "operator": null,
+    "address": "Бердское шоссе",
+    "lat": 54.9266441,
+    "lng": 83.076696,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/286759696",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 55.0377956,
+    "lng": 82.9384637,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/306101913",
+    "brand": "Газпром Нефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 54.9972678,
+    "lng": 82.8488228,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/320715271",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "улица Жуковского, Новосибирск",
+    "lat": 55.0694456,
+    "lng": 82.8925849,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/321571361",
+    "brand": "ПРАЙМ",
+    "name": "Прайм",
+    "operator": null,
+    "address": "Учительская улица, Новосибирск",
+    "lat": 55.0913681,
+    "lng": 82.9545909,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/364066501",
+    "brand": null,
+    "name": "Энергия",
+    "operator": null,
+    "address": "улица Ватутина, Новосибирск",
+    "lat": 54.9671651,
+    "lng": 82.9261481,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/364066506",
+    "brand": null,
+    "name": "Газойл",
+    "operator": "Газойл",
+    "address": "улица Ватутина",
+    "lat": 54.9661855,
+    "lng": 82.9278698,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/370711133",
+    "brand": null,
+    "name": "Топлайн",
+    "operator": null,
+    "address": "улица Петухова, Новосибирск",
+    "lat": 54.9416253,
+    "lng": 82.9365602,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/384745091",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "Троллейная улица, Новосибирск",
+    "lat": 54.9609891,
+    "lng": 82.8449289,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "100": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/393928716",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 54.9732875,
+    "lng": 82.9040373,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/393928718",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "улица Немировича-Данченко",
+    "lat": 54.979614,
+    "lng": 82.9121397,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/410849648",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "улица Декабристов",
+    "lat": 54.9989062,
+    "lng": 82.9777103,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/411247720",
+    "brand": null,
+    "name": "Опти",
+    "operator": null,
+    "address": "улица Сибиряков-Гвардейцев",
+    "lat": 54.9703134,
+    "lng": 82.898127,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/419054535",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "Большевистская улица",
+    "lat": 54.9990457,
+    "lng": 82.9602639,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "node/430034316",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 55.0552513,
+    "lng": 83.1151819,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/445226885",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 55.0528262,
+    "lng": 83.1370879,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/472661878",
+    "brand": null,
+    "name": "Лукойл",
+    "operator": "Лукойл",
+    "address": "",
+    "lat": 54.9332184,
+    "lng": 82.8153985,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/472661887",
+    "brand": null,
+    "name": "АГЗС Гранд",
+    "operator": null,
+    "address": "",
+    "lat": 54.9360875,
+    "lng": 82.8173445,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/472661912",
+    "brand": null,
+    "name": "Энергия",
+    "operator": null,
+    "address": "улица Петухова",
+    "lat": 54.945077,
+    "lng": 82.8583031,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/474388963",
+    "brand": null,
+    "name": "АГЗС",
+    "operator": null,
+    "address": "",
+    "lat": 54.9482569,
+    "lng": 83.2327219,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/474954443",
+    "brand": null,
+    "name": "Лукойл",
+    "operator": null,
+    "address": "",
+    "lat": 54.9916557,
+    "lng": 82.9792085,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/474973733",
+    "brand": null,
+    "name": "Центр",
+    "operator": null,
+    "address": "улица Семьи Шамшиных",
+    "lat": 55.0386544,
+    "lng": 82.9297499,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/604665113",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "улица Немировича-Данченко",
+    "lat": 54.987637,
+    "lng": 82.914564,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "node/611611771",
+    "brand": null,
+    "name": "Газпром",
+    "operator": null,
+    "address": "",
+    "lat": 54.9968478,
+    "lng": 82.8665433,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "cng": "available"
+    }
+  },
+  {
+    "osm_id": "node/613604810",
+    "brand": null,
+    "name": "FNN",
+    "operator": null,
+    "address": "",
+    "lat": 55.1284763,
+    "lng": 82.9424361,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available"
+    }
+  },
+  {
+    "osm_id": "node/621147918",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "Владимировская улица",
+    "lat": 55.0400806,
+    "lng": 82.8874622,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "node/625082997",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 54.8436916,
+    "lng": 83.0353562,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/627572834",
+    "brand": null,
+    "name": "Топаз",
+    "operator": null,
+    "address": "",
+    "lat": 54.8331784,
+    "lng": 83.0847639,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/634368732",
+    "brand": null,
+    "name": "АГЗС",
+    "operator": null,
+    "address": "",
+    "lat": 54.9574245,
+    "lng": 83.0535727,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/634371472",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 54.9475586,
+    "lng": 82.8597037,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/634377577",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 54.9865284,
+    "lng": 82.8335826,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/634377581",
+    "brand": null,
+    "name": "АЗГС АГНКС-3",
+    "operator": "АЗГС АГНКС-3",
+    "address": "",
+    "lat": 54.9966778,
+    "lng": 82.8681673,
+    "fuels_raw": {
+      "lpg": "available",
+      "cng": "available"
+    }
+  },
+  {
+    "osm_id": "node/634394929",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 55.0189638,
+    "lng": 82.9892174,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/634399062",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 55.0331977,
+    "lng": 82.9965055,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/634401326",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 55.0455684,
+    "lng": 83.0008931,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/634408127",
+    "brand": null,
+    "name": "АГЗС",
+    "operator": null,
+    "address": "",
+    "lat": 55.0480015,
+    "lng": 83.066649,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/634412018",
+    "brand": null,
+    "name": "ГазОйл",
+    "operator": "ГазОйл",
+    "address": "",
+    "lat": 55.0879087,
+    "lng": 82.8940339,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/634418616",
+    "brand": null,
+    "name": "ГазОйл",
+    "operator": null,
+    "address": "",
+    "lat": 55.0814737,
+    "lng": 82.9788055,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/634418617",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 55.1107747,
+    "lng": 82.983342,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/635773268",
+    "brand": null,
+    "name": "Автовектор",
+    "operator": null,
+    "address": "промзона Кольцово",
+    "lat": 54.948161,
+    "lng": 83.2337207,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/641816858",
+    "brand": null,
+    "name": "ГАЗойл",
+    "operator": null,
+    "address": "",
+    "lat": 54.9940802,
+    "lng": 82.7203041,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/641816867",
+    "brand": null,
+    "name": "Сибавтогаз",
+    "operator": "Сибавтогаз",
+    "address": "",
+    "lat": 55.1203351,
+    "lng": 82.924415,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/663972036",
+    "brand": "ПРАЙМ",
+    "name": "Прайм",
+    "operator": null,
+    "address": "Фабричная улица, Новосибирск",
+    "lat": 55.0300805,
+    "lng": 82.8950997,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/673452964",
+    "brand": null,
+    "name": "Опти",
+    "operator": null,
+    "address": "",
+    "lat": 55.0615184,
+    "lng": 82.9369564,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/673880293",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "улица Бродского",
+    "lat": 55.0578453,
+    "lng": 82.9808926,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "node/675772963",
+    "brand": "Газпром Нефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "Мочищенское шоссе",
+    "lat": 55.0833824,
+    "lng": 82.8951765,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/675773011",
+    "brand": null,
+    "name": "Nafta24",
+    "operator": null,
+    "address": "",
+    "lat": 55.0910314,
+    "lng": 82.8932334,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "node/677285894",
+    "brand": null,
+    "name": "ГазОйл",
+    "operator": null,
+    "address": "",
+    "lat": 55.0236691,
+    "lng": 82.9747687,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/678597667",
+    "brand": null,
+    "name": "Топлаин",
+    "operator": "Топлаин",
+    "address": "Приморская улица",
+    "lat": 54.855637,
+    "lng": 82.9831879,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/681809177",
+    "brand": null,
+    "name": "Опти",
+    "operator": null,
+    "address": "улица Фадеева",
+    "lat": 55.1034179,
+    "lng": 82.9367995,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/683030609",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 55.0427756,
+    "lng": 83.0386842,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/683031010",
+    "brand": "Лукойл",
+    "name": "Лукойл",
+    "operator": "Лукойл",
+    "address": "",
+    "lat": 55.0718736,
+    "lng": 83.0139895,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/683101809",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 55.0526308,
+    "lng": 82.9965118,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "node/690341186",
+    "brand": null,
+    "name": "Компани",
+    "operator": null,
+    "address": "",
+    "lat": 55.0250385,
+    "lng": 82.9063198,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/704995826",
+    "brand": "Teboil",
+    "name": "Teboil",
+    "operator": null,
+    "address": "Широкая улица",
+    "lat": 54.9952221,
+    "lng": 82.8666136,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/739413357",
+    "brand": null,
+    "name": "Большая",
+    "operator": null,
+    "address": "Большая улица",
+    "lat": 55.018377,
+    "lng": 82.8111788,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/740367087",
+    "brand": null,
+    "name": "Родники",
+    "operator": null,
+    "address": "",
+    "lat": 55.1049832,
+    "lng": 82.9514823,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/1106229354",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "улица Ватутина",
+    "lat": 54.9722837,
+    "lng": 82.9170441,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/1118309363",
+    "brand": "Татнефть",
+    "name": "татнефть",
+    "operator": "Лукойл",
+    "address": "",
+    "lat": 54.9972404,
+    "lng": 82.7919244,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/1118313260",
+    "brand": null,
+    "name": "Опти",
+    "operator": null,
+    "address": "",
+    "lat": 55.0544011,
+    "lng": 82.9397367,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/1118314157",
+    "brand": "Teboil",
+    "name": "Teboil",
+    "operator": null,
+    "address": "",
+    "lat": 55.0662373,
+    "lng": 82.932787,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/1118314335",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "проезд Энергетиков",
+    "lat": 55.0126749,
+    "lng": 82.87873,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "node/1118355955",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 54.860116,
+    "lng": 82.9674629,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "node/1118360106",
+    "brand": null,
+    "name": "Норд-Нск",
+    "operator": null,
+    "address": "",
+    "lat": 54.8559074,
+    "lng": 82.9583616,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/1118380969",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "улица Петухова, Новосибирск",
+    "lat": 54.9392821,
+    "lng": 82.9311209,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/1118381718",
+    "brand": null,
+    "name": "Лукойл",
+    "operator": "Лукойл",
+    "address": "",
+    "lat": 55.0419553,
+    "lng": 83.0342626,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/1118486507",
+    "brand": null,
+    "name": "Гарантия",
+    "operator": null,
+    "address": "",
+    "lat": 54.8789072,
+    "lng": 82.757103,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/1119592532",
+    "brand": null,
+    "name": "Опти",
+    "operator": null,
+    "address": "",
+    "lat": 54.9991206,
+    "lng": 82.6820729,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/1119621488",
+    "brand": "ПРАЙМ",
+    "name": "Прайм",
+    "operator": null,
+    "address": "Трикотажная улица, Новосибирск",
+    "lat": 55.0646425,
+    "lng": 82.9698255,
+    "fuels_raw": {
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/1119622309",
+    "brand": null,
+    "name": "Опти",
+    "operator": null,
+    "address": "",
+    "lat": 55.062628,
+    "lng": 82.8913661,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/1119628786",
+    "brand": null,
+    "name": "ГазОйл",
+    "operator": "Газойл",
+    "address": "",
+    "lat": 54.9426876,
+    "lng": 82.8802914,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/1119629250",
+    "brand": "ПРАЙМ",
+    "name": "Прайм",
+    "operator": null,
+    "address": "Советское шоссе, Новосибирск",
+    "lat": 54.893213,
+    "lng": 82.9901827,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/1133549485",
+    "brand": null,
+    "name": "Топаз",
+    "operator": null,
+    "address": "улица Петухова",
+    "lat": 54.9447527,
+    "lng": 82.8477763,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/1143343936",
+    "brand": "ОПТИ",
+    "name": "Опти",
+    "operator": null,
+    "address": "улица Зорге",
+    "lat": 54.9304493,
+    "lng": 82.9296462,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available"
+    }
+  },
+  {
+    "osm_id": "node/1241081316",
+    "brand": null,
+    "name": "Опти",
+    "operator": null,
+    "address": "",
+    "lat": 54.9563201,
+    "lng": 82.850742,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/1264872037",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 55.1034219,
+    "lng": 82.9560634,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/1345219699",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "улица Доватора, Новосибирск",
+    "lat": 55.0459734,
+    "lng": 82.9959847,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "node/1345219709",
+    "brand": "ПРАЙМ",
+    "name": "Прайм",
+    "operator": null,
+    "address": "Тогучинская улица, Новосибирск",
+    "lat": 55.1598892,
+    "lng": 82.9851379,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/1345219713",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "улица Свердлова",
+    "lat": 55.0220488,
+    "lng": 82.9304609,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "node/1445523826",
+    "brand": null,
+    "name": "Хорос",
+    "operator": null,
+    "address": "",
+    "lat": 54.9982239,
+    "lng": 82.7811121,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/1445523833",
+    "brand": "ПРАЙМ",
+    "name": "Прайм",
+    "operator": null,
+    "address": "улица Ломоносова, Обь",
+    "lat": 54.9947243,
+    "lng": 82.7309799,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/1445523834",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 54.9959042,
+    "lng": 82.8308583,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/1445523835",
+    "brand": null,
+    "name": "Nafta24",
+    "operator": null,
+    "address": "",
+    "lat": 54.9975875,
+    "lng": 82.7562772,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/1445523837",
+    "brand": null,
+    "name": "Nafta24",
+    "operator": null,
+    "address": "",
+    "lat": 54.9977275,
+    "lng": 82.8252217,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/1518009393",
+    "brand": null,
+    "name": "АГЗС ГАЗОЙЛ",
+    "operator": null,
+    "address": "",
+    "lat": 55.0912905,
+    "lng": 82.9525227,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/2013516373",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 55.1178575,
+    "lng": 82.9151046,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "node/2206383746",
+    "brand": null,
+    "name": "Опти",
+    "operator": null,
+    "address": "",
+    "lat": 55.0796873,
+    "lng": 82.9808627,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/2366930813",
+    "brand": null,
+    "name": "Рубеж",
+    "operator": null,
+    "address": "",
+    "lat": 55.0811262,
+    "lng": 82.6602984,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/2366930841",
+    "brand": "ПРАЙМ",
+    "name": "Прайм",
+    "operator": null,
+    "address": "Промышленная улица, Криводановка",
+    "lat": 55.0762491,
+    "lng": 82.686215,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/2371891541",
+    "brand": "Роснефть",
+    "name": "Роснефть",
+    "operator": "АО \"Томскнефтепродукт\" ВНК",
+    "address": "Большая улица, Новосибирск",
+    "lat": 55.023318,
+    "lng": 82.8143714,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/3038469908",
+    "brand": null,
+    "name": "ГазОйл",
+    "operator": null,
+    "address": "",
+    "lat": 55.0341451,
+    "lng": 82.9424588,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/3710986596",
+    "brand": "Новосибирск",
+    "name": "Новосибирск",
+    "operator": null,
+    "address": "",
+    "lat": 54.9818959,
+    "lng": 83.0057508,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/3963848173",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 55.1029535,
+    "lng": 82.9563862,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/3986701561",
+    "brand": null,
+    "name": "Татнефть",
+    "operator": "Татнефть",
+    "address": "",
+    "lat": 55.0200745,
+    "lng": 82.9355784,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/4413336442",
+    "brand": "Лукойл",
+    "name": "Лукойл",
+    "operator": "Лукойл",
+    "address": "",
+    "lat": 55.0407387,
+    "lng": 82.9620244,
+    "fuels_raw": {
+      "diesel": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/4472673869",
+    "brand": null,
+    "name": "Газпром",
+    "operator": "Газпром",
+    "address": "1-я Грузинская улица, Новосибирск",
+    "lat": 55.121045,
+    "lng": 82.9224447,
+    "fuels_raw": {
+      "cng": "available"
+    }
+  },
+  {
+    "osm_id": "node/4881269811",
+    "brand": null,
+    "name": "Альянс НСК",
+    "operator": null,
+    "address": "",
+    "lat": 54.8724025,
+    "lng": 83.1284097,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/5076609174",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 54.9914701,
+    "lng": 82.9854323,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/5217897246",
+    "brand": null,
+    "name": "СибАвтоГаз",
+    "operator": null,
+    "address": "",
+    "lat": 55.0536053,
+    "lng": 82.9942038,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/5353612794",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 55.0254346,
+    "lng": 82.9494984,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/5693173143",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "Волочаевская улица",
+    "lat": 55.055206,
+    "lng": 82.9901996,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/6567033655",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 55.0255861,
+    "lng": 82.9678863,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/7285012458",
+    "brand": "Газпром Нефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 54.9972294,
+    "lng": 82.7823294,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/9740774742",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 54.843973,
+    "lng": 83.1233978,
+    "fuels_raw": {
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "node/9748209570",
+    "brand": null,
+    "name": "СибАвтоГаз",
+    "operator": null,
+    "address": "Тихая улица",
+    "lat": 54.8514309,
+    "lng": 83.0634912,
+    "fuels_raw": {
+      "92": "available",
+      "95": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/9884665333",
+    "brand": "Gaspro",
+    "name": "Gaspro",
+    "operator": null,
+    "address": "",
+    "lat": 55.0906965,
+    "lng": 82.8929763,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/10093904541",
+    "brand": "Teboil",
+    "name": "Teboil",
+    "operator": null,
+    "address": "",
+    "lat": 55.0498014,
+    "lng": 82.9334442,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "node/10188028712",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 55.0494533,
+    "lng": 82.9233476,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/10230879650",
+    "brand": null,
+    "name": "Опти",
+    "operator": null,
+    "address": "",
+    "lat": 55.080839,
+    "lng": 83.037004,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/10230879652",
+    "brand": null,
+    "name": "Опти",
+    "operator": null,
+    "address": "",
+    "lat": 54.8431,
+    "lng": 82.9484,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/11543792869",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 55.188791,
+    "lng": 83.1386924,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/12581515789",
+    "brand": null,
+    "name": "Опти",
+    "operator": null,
+    "address": "",
+    "lat": 55.126822,
+    "lng": 82.936739,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/12581515791",
+    "brand": null,
+    "name": "Опти",
+    "operator": null,
+    "address": "",
+    "lat": 55.17484,
+    "lng": 82.98925,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/12581515792",
+    "brand": null,
+    "name": "Опти",
+    "operator": null,
+    "address": "",
+    "lat": 55.18119,
+    "lng": 82.76068,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/12995781578",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "Бердское шоссе",
+    "lat": 54.8752232,
+    "lng": 83.0767491,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/12995793029",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 55.01149,
+    "lng": 82.81616,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/12995793042",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 54.9961969,
+    "lng": 82.9660678,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "node/12995793052",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 55.0504915,
+    "lng": 82.8996755,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "node/12995793070",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 55.0268882,
+    "lng": 82.8990116,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/12995793071",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 55.0034154,
+    "lng": 82.8695342,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/12995793144",
+    "brand": null,
+    "name": "Энергия",
+    "operator": null,
+    "address": "",
+    "lat": 54.9713066,
+    "lng": 83.0403489,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/12995793267",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "Первомайская улица",
+    "lat": 54.9591546,
+    "lng": 83.1448933,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "node/12995793288",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 55.0100677,
+    "lng": 82.8762004,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "node/13151015853",
+    "brand": "Teboil",
+    "name": "Teboil",
+    "operator": null,
+    "address": "",
+    "lat": 54.997667,
+    "lng": 82.756296,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "node/13285799037",
+    "brand": null,
+    "name": "Энергия",
+    "operator": null,
+    "address": "",
+    "lat": 55.0158558,
+    "lng": 82.9223572,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/13285799038",
+    "brand": null,
+    "name": "Энергия",
+    "operator": null,
+    "address": "",
+    "lat": 54.9566459,
+    "lng": 82.9544961,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/13957444619",
+    "brand": null,
+    "name": "МАЗС Гранд",
+    "operator": "Топсиб АЗС",
+    "address": "Российская улица",
+    "lat": 54.8620906,
+    "lng": 83.0983696,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "node/13962174850",
+    "brand": "Татнефть",
+    "name": "Татнефть",
+    "operator": null,
+    "address": "",
+    "lat": 55.0418944,
+    "lng": 82.9629147,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/48949531",
+    "brand": "Лукойл",
+    "name": "Лукойл",
+    "operator": "Лукойл",
+    "address": "Бердское шоссе",
+    "lat": 54.8152759,
+    "lng": 83.09011,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/50805224",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 54.8692404,
+    "lng": 82.9896433,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "way/50805229",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "Приморская улица, Новосибирск",
+    "lat": 54.8694749,
+    "lng": 82.9913435,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "way/51129616",
+    "brand": "ПРАЙМ",
+    "name": "Прайм",
+    "operator": null,
+    "address": "Выборная улица, Новосибирск",
+    "lat": 55.0010214,
+    "lng": 83.0127275,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/51214932",
+    "brand": null,
+    "name": "Гранд",
+    "operator": "Гранд",
+    "address": "Бердское шоссе",
+    "lat": 54.892387,
+    "lng": 83.0706857,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/51220486",
+    "brand": null,
+    "name": "Топлайн",
+    "operator": null,
+    "address": "улица Сибиряков-Гвардейцев, Новосибирск",
+    "lat": 54.9486248,
+    "lng": 82.9001705,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/51220493",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "улица Петухова, Новосибирск",
+    "lat": 54.9419422,
+    "lng": 82.9108831,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "way/51271191",
+    "brand": null,
+    "name": "Сиб-ГСМ",
+    "operator": "Сиб-ГСМ",
+    "address": "улица Петухова, Новосибирск",
+    "lat": 54.9428407,
+    "lng": 82.8948291,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/51390917",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "улица Петухова",
+    "lat": 54.9421855,
+    "lng": 82.8891528,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "way/51424760",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "улица Бородина, Новосибирск",
+    "lat": 54.9417317,
+    "lng": 82.8781999,
+    "fuels_raw": {
+      "cng": "available"
+    }
+  },
+  {
+    "osm_id": "way/51424766",
+    "brand": null,
+    "name": "Люксойл",
+    "operator": null,
+    "address": "улица Петухова, Новосибирск",
+    "lat": 54.9425255,
+    "lng": 82.8820469,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/51503700",
+    "brand": null,
+    "name": "Nafta24",
+    "operator": null,
+    "address": "Советское шоссе",
+    "lat": 54.9221196,
+    "lng": 82.9531088,
+    "fuels_raw": {
+      "diesel": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/51694122",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 54.9852604,
+    "lng": 82.6955557,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/51723298",
+    "brand": "ПРАЙМ",
+    "name": "Прайм",
+    "operator": null,
+    "address": "Русская улица, Новосибирск",
+    "lat": 54.8459617,
+    "lng": 83.0641593,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/51820573",
+    "brand": "ПРАЙМ",
+    "name": "Прайм",
+    "operator": null,
+    "address": "улица Дуси Ковальчук, Новосибирск",
+    "lat": 55.0516894,
+    "lng": 82.8916962,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/51856411",
+    "brand": null,
+    "name": "Nafta24",
+    "operator": null,
+    "address": "",
+    "lat": 54.9396595,
+    "lng": 82.822886,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/52076498",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "тупик Красина",
+    "lat": 55.0449263,
+    "lng": 82.9639628,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/52098597",
+    "brand": null,
+    "name": "Беркут",
+    "operator": null,
+    "address": "Гусинобродское шоссе",
+    "lat": 55.0363447,
+    "lng": 83.0048613,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available"
+    }
+  },
+  {
+    "osm_id": "way/52240405",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "Сухарная улица, Новосибирск",
+    "lat": 55.0467428,
+    "lng": 82.8800722,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "way/52373176",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "Большевистская улица",
+    "lat": 54.978496,
+    "lng": 83.0153282,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/52499950",
+    "brand": null,
+    "name": "Гермес",
+    "operator": null,
+    "address": "Большевистская улица, Новосибирск",
+    "lat": 54.991517,
+    "lng": 82.9856694,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available"
+    }
+  },
+  {
+    "osm_id": "way/52586187",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "улица Никитина",
+    "lat": 55.0321197,
+    "lng": 82.9939727,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "way/52699003",
+    "brand": "Лукойл",
+    "name": "Лукойл",
+    "operator": "Лукойл",
+    "address": "",
+    "lat": 55.1222892,
+    "lng": 83.0118983,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/53257679",
+    "brand": null,
+    "name": "Nafta24",
+    "operator": null,
+    "address": "улица Кропоткина",
+    "lat": 55.0634208,
+    "lng": 82.962986,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/53552866",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "улица Объединения",
+    "lat": 55.0987845,
+    "lng": 82.9794002,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "way/55882457",
+    "brand": null,
+    "name": "АЗС Хорос",
+    "operator": null,
+    "address": "Станционная улица",
+    "lat": 54.9982278,
+    "lng": 82.7811197,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/56007231",
+    "brand": null,
+    "name": "Опти",
+    "operator": null,
+    "address": "Восточная улица",
+    "lat": 54.9317345,
+    "lng": 82.9982667,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/56054186",
+    "brand": null,
+    "name": "Опти",
+    "operator": "Опти",
+    "address": "улица Мира",
+    "lat": 54.957263,
+    "lng": 82.9420124,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/56054202",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 54.9604008,
+    "lng": 82.9405522,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/56054205",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "улица Аникина",
+    "lat": 54.9606284,
+    "lng": 82.9396247,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "way/56054313",
+    "brand": "ПРАЙМ",
+    "name": "Прайм",
+    "operator": null,
+    "address": "Тюменская улица, Новосибирск",
+    "lat": 54.9581152,
+    "lng": 82.9581648,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/56122653",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "Бердское шоссе, Новосибирск",
+    "lat": 54.9559928,
+    "lng": 83.0614633,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "way/56178972",
+    "brand": "Лукойл",
+    "name": "Лукойл",
+    "operator": "Лукойл",
+    "address": "Военная улица, Новосибирск",
+    "lat": 55.0271861,
+    "lng": 82.9385123,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/56189244",
+    "brand": null,
+    "name": "Газ Ойл",
+    "operator": null,
+    "address": "",
+    "lat": 54.9523,
+    "lng": 82.8989998,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/56234860",
+    "brand": null,
+    "name": "Три Версты",
+    "operator": null,
+    "address": "Планировочная улица, Новосибирск",
+    "lat": 54.9957709,
+    "lng": 82.8762377,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/56400253",
+    "brand": "Teboil",
+    "name": "Teboil",
+    "operator": null,
+    "address": "Первомайская улица, Новосибирск",
+    "lat": 54.9770032,
+    "lng": 83.053198,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/56400403",
+    "brand": "ПРАЙМ",
+    "name": "Прайм",
+    "operator": null,
+    "address": "Первомайская улица, Новосибирск",
+    "lat": 54.9764444,
+    "lng": 83.045023,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/56723670",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 55.1103667,
+    "lng": 82.7602979,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/57754620",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "Толмачёвское шоссе, Новосибирск",
+    "lat": 54.9666328,
+    "lng": 82.8126559,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/58678823",
+    "brand": null,
+    "name": "Капитан",
+    "operator": null,
+    "address": "",
+    "lat": 54.9989753,
+    "lng": 82.6561367,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "way/60965750",
+    "brand": null,
+    "name": "ТНК",
+    "operator": null,
+    "address": "",
+    "lat": 55.061942,
+    "lng": 83.2150157,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/60967298",
+    "brand": null,
+    "name": "Лукойл",
+    "operator": "Лукойл",
+    "address": "Троллейная улица, Новосибирск",
+    "lat": 54.9627125,
+    "lng": 82.8504015,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/60967320",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "Троллейная улица, Новосибирск",
+    "lat": 54.9646166,
+    "lng": 82.8544606,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/80178990",
+    "brand": null,
+    "name": "Nafta24",
+    "operator": null,
+    "address": "Магистральная улица, Новосибирск",
+    "lat": 55.1717351,
+    "lng": 82.9721359,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/80405666",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "Хилокская улица",
+    "lat": 54.9464266,
+    "lng": 82.8312912,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "way/83091138",
+    "brand": null,
+    "name": "Красный Яр",
+    "operator": null,
+    "address": "",
+    "lat": 55.1873525,
+    "lng": 83.2681741,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/83826245",
+    "brand": "Лукойл",
+    "name": "Лукойл",
+    "operator": "Лукойл",
+    "address": "",
+    "lat": 54.9192111,
+    "lng": 82.9573538,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/89120447",
+    "brand": null,
+    "name": "Вектор",
+    "operator": null,
+    "address": "",
+    "lat": 54.9371536,
+    "lng": 83.1780727,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/95040889",
+    "brand": null,
+    "name": "Гранд МАЗС",
+    "operator": null,
+    "address": "",
+    "lat": 54.9287732,
+    "lng": 82.9445899,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "way/96526339",
+    "brand": "Independent",
+    "name": "АГЗС Гранд",
+    "operator": null,
+    "address": "улица Ленина",
+    "lat": 54.9688975,
+    "lng": 83.2013999,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "way/96526839",
+    "brand": "Independent",
+    "name": "АГЗС Гранд",
+    "operator": null,
+    "address": "Гусинобродское шоссе",
+    "lat": 55.0466016,
+    "lng": 83.064433,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "way/96532943",
+    "brand": null,
+    "name": "Тайм",
+    "operator": null,
+    "address": "",
+    "lat": 55.0599799,
+    "lng": 82.9358344,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/96906307",
+    "brand": "ПРАЙМ",
+    "name": "Прайм",
+    "operator": null,
+    "address": "Военная улица, Новосибирск",
+    "lat": 55.0299474,
+    "lng": 82.937732,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/96906308",
+    "brand": "Teboil",
+    "name": "Teboil",
+    "operator": null,
+    "address": "Толмачёвская улица",
+    "lat": 54.9588922,
+    "lng": 82.8384261,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/97530544",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "Станционная улица, Новосибирск",
+    "lat": 54.9972201,
+    "lng": 82.8488263,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/98837756",
+    "brand": null,
+    "name": "Хорос",
+    "operator": null,
+    "address": "улица Богдана Хмельницкого",
+    "lat": 55.0841769,
+    "lng": 82.9687319,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/98840243",
+    "brand": null,
+    "name": "Лукойл",
+    "operator": "Лукойл",
+    "address": "улица Богдана Хмельницкого",
+    "lat": 55.0902115,
+    "lng": 82.9755253,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/98840368",
+    "brand": null,
+    "name": "Квадро",
+    "operator": null,
+    "address": "",
+    "lat": 54.9171863,
+    "lng": 82.9805784,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/98840715",
+    "brand": "ОПТИ",
+    "name": "ОПТИ",
+    "operator": null,
+    "address": "Выборная улица, Новосибирск",
+    "lat": 55.003774,
+    "lng": 83.0261571,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/98842567",
+    "brand": null,
+    "name": "Опти",
+    "operator": null,
+    "address": "Кубовая улица",
+    "lat": 55.1340618,
+    "lng": 82.8904025,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/107443783",
+    "brand": null,
+    "name": "Горизонт",
+    "operator": "Горизонт",
+    "address": "улица Бориса Богаткова, Новосибирск",
+    "lat": 55.0426175,
+    "lng": 82.9839005,
+    "fuels_raw": {
+      "diesel": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/119449762",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 54.9947311,
+    "lng": 82.7311318,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/126405817",
+    "brand": "Teboil",
+    "name": "Teboil",
+    "operator": null,
+    "address": "улица Сибиряков-Гвардейцев",
+    "lat": 54.9532176,
+    "lng": 82.9008148,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/137926991",
+    "brand": null,
+    "name": "Опти",
+    "operator": null,
+    "address": "улица Никитина",
+    "lat": 55.0237778,
+    "lng": 82.9773359,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/146588592",
+    "brand": null,
+    "name": "Тайм",
+    "operator": null,
+    "address": "Нарымская улица",
+    "lat": 55.0474243,
+    "lng": 82.9012164,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/167604630",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "улица Кутателадзе, Новосибирск",
+    "lat": 54.8591296,
+    "lng": 83.0999559,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/167801530",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "Новая улица, Верх-Тула",
+    "lat": 54.8941359,
+    "lng": 82.7769855,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/168405250",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 54.8002031,
+    "lng": 83.108007,
+    "fuels_raw": {
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/169257348",
+    "brand": null,
+    "name": "ТНК",
+    "operator": null,
+    "address": "",
+    "lat": 54.9970365,
+    "lng": 82.6784473,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "way/172955205",
+    "brand": "Independent",
+    "name": "АГЗС Гранд",
+    "operator": null,
+    "address": "проезд Энергетиков, Новосибирск",
+    "lat": 55.0086548,
+    "lng": 82.8749361,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "way/173043153",
+    "brand": null,
+    "name": "Лукойл",
+    "operator": null,
+    "address": "Владимировская улица",
+    "lat": 55.0434122,
+    "lng": 82.8837653,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/175960787",
+    "brand": null,
+    "name": "Исток",
+    "operator": null,
+    "address": "",
+    "lat": 54.8562036,
+    "lng": 83.1123285,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "way/215186861",
+    "brand": null,
+    "name": "Nafta24",
+    "operator": null,
+    "address": "Фабричная улица",
+    "lat": 55.0234285,
+    "lng": 82.9018279,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/219583926",
+    "brand": "Роснефть",
+    "name": "Роснефть",
+    "operator": "АО \"Томскнефтепродукт\" ВНК",
+    "address": "Красный проспект",
+    "lat": 55.0729405,
+    "lng": 82.9078957,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "way/229926304",
+    "brand": null,
+    "name": "Кольцово",
+    "operator": null,
+    "address": "",
+    "lat": 54.9339517,
+    "lng": 83.1814309,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/240505771",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "улица Жуковского, Новосибирск",
+    "lat": 55.0692097,
+    "lng": 82.8941541,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "way/241610037",
+    "brand": "Роснефть",
+    "name": "Роснефть",
+    "operator": "АО \"Томскнефтепродукт\" ВНК",
+    "address": "улица Ватутина",
+    "lat": 54.9647513,
+    "lng": 82.9281438,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "way/241610038",
+    "brand": "Роснефть",
+    "name": "Роснефть",
+    "operator": "АО \"Томскнефтепродукт\" ВНК",
+    "address": "Большая улица",
+    "lat": 55.0218368,
+    "lng": 82.8148029,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/241610041",
+    "brand": null,
+    "name": "Стандарт",
+    "operator": "Стандарт",
+    "address": "Гусинобродское шоссе",
+    "lat": 55.0485624,
+    "lng": 83.0746882,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/243069307",
+    "brand": null,
+    "name": "Энергия",
+    "operator": null,
+    "address": "Рекордный переулок",
+    "lat": 55.0890863,
+    "lng": 82.9375554,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/281259603",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 54.9760969,
+    "lng": 83.1600844,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/293976966",
+    "brand": null,
+    "name": "Октан-М",
+    "operator": null,
+    "address": "",
+    "lat": 54.9349702,
+    "lng": 83.0946819,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/317680543",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 55.1060906,
+    "lng": 82.9738599,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/318179795",
+    "brand": null,
+    "name": "Топлайн",
+    "operator": null,
+    "address": "Бердское шоссе, Новосибирск",
+    "lat": 54.845817,
+    "lng": 83.0655815,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/318184575",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 55.0392018,
+    "lng": 82.9522366,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/319898363",
+    "brand": null,
+    "name": "Nafta24",
+    "operator": null,
+    "address": "",
+    "lat": 55.1076703,
+    "lng": 82.986115,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/362608477",
+    "brand": "ОПТИ",
+    "name": "Опти",
+    "operator": null,
+    "address": "",
+    "lat": 55.0343005,
+    "lng": 83.0068504,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/366716141",
+    "brand": null,
+    "name": "ЛюксОйл",
+    "operator": null,
+    "address": "",
+    "lat": 54.9566174,
+    "lng": 83.0556861,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/367147204",
+    "brand": "Independent",
+    "name": "Гранд",
+    "operator": "Гранд",
+    "address": "",
+    "lat": 54.9782549,
+    "lng": 83.0272205,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "way/377616418",
+    "brand": null,
+    "name": "ЗАО УМиАТ",
+    "operator": null,
+    "address": "",
+    "lat": 55.103125,
+    "lng": 82.9776035,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/381856582",
+    "brand": null,
+    "name": "Nafta24",
+    "operator": null,
+    "address": "1-я Грузинская улица",
+    "lat": 55.1213086,
+    "lng": 82.9231748,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/381856596",
+    "brand": "Лукойл",
+    "name": "Лукойл",
+    "operator": "Лукойл",
+    "address": "",
+    "lat": 55.1324621,
+    "lng": 82.9741571,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/430078830",
+    "brand": "ПРАЙМ",
+    "name": "Прайм",
+    "operator": null,
+    "address": "Техническая улица, Новосибирск",
+    "lat": 55.0525114,
+    "lng": 83.0013011,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/447946276",
+    "brand": null,
+    "name": "СибАвтоГаз",
+    "operator": null,
+    "address": "Троллейная улица, Новосибирск",
+    "lat": 54.9603232,
+    "lng": 82.8421067,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "way/447946277",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 54.9601908,
+    "lng": 82.8424245,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/531379195",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "Октябрьская улица, Обь-2",
+    "lat": 54.9887466,
+    "lng": 82.6949024,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/544539464",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "улица Королёва",
+    "lat": 55.0575386,
+    "lng": 82.9652695,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "way/594401347",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 54.8083848,
+    "lng": 83.088427,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/621395535",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "Выборная улица, Новосибирск",
+    "lat": 55.0038631,
+    "lng": 83.055077,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available",
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "way/654635670",
+    "brand": "ПРАЙМ",
+    "name": "Прайм",
+    "operator": null,
+    "address": "Колыванское шоссе",
+    "lat": 55.0419986,
+    "lng": 82.8011853,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/688586380",
+    "brand": null,
+    "name": "Teboil",
+    "operator": null,
+    "address": "Бердское шоссе",
+    "lat": 54.8634074,
+    "lng": 83.0761345,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/699796371",
+    "brand": "ОПТИ",
+    "name": "Опти",
+    "operator": null,
+    "address": "Большевистская улица, Новосибирск",
+    "lat": 54.9774098,
+    "lng": 83.0283643,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "98": "available"
+    }
+  },
+  {
+    "osm_id": "way/841129160",
+    "brand": "ПРАЙМ",
+    "name": "Прайм",
+    "operator": null,
+    "address": "проспект Дзержинского, Новосибирск",
+    "lat": 55.0776525,
+    "lng": 83.0343163,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  },
+  {
+    "osm_id": "way/885750748",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 55.1047303,
+    "lng": 82.9847692,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/937547962",
+    "brand": "Газпром",
+    "name": "АГНКС \"Газпром\"",
+    "operator": null,
+    "address": "Первомайская улица, Новосибирск",
+    "lat": 54.9755676,
+    "lng": 83.0377083,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "way/1077909446",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "",
+    "lat": 55.0562309,
+    "lng": 82.9261896,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "way/1228777968",
+    "brand": "Газпромнефть",
+    "name": "Газпромнефть",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "address": "улица Ватутина, Новосибирск",
+    "lat": 54.967782,
+    "lng": 82.9224634,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available",
+      "100": "available"
+    }
+  },
+  {
+    "osm_id": "way/1235142200",
+    "brand": null,
+    "name": "Сибавтогаз",
+    "operator": null,
+    "address": "",
+    "lat": 55.029295,
+    "lng": 82.8038621,
+    "fuels_raw": {
+      "lpg": "available"
+    }
+  },
+  {
+    "osm_id": "way/1259273417",
+    "brand": null,
+    "name": "АЗС",
+    "operator": null,
+    "address": "",
+    "lat": 54.9936443,
+    "lng": 82.8430745,
+    "fuels_raw": null
+  },
+  {
+    "osm_id": "way/1289257977",
+    "brand": null,
+    "name": "Транзит",
+    "operator": null,
+    "address": "Новосибирск",
+    "lat": 55.1679046,
+    "lng": 82.9760988,
+    "fuels_raw": {
+      "diesel": "available",
+      "92": "available",
+      "95": "available"
+    }
+  }
+]
